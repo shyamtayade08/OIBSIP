@@ -1,2 +1,1 @@
-# OIBSIP
-It is for intership
+# College Projects
